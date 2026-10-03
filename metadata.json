@@ -1,0 +1,6 @@
+{
+  "name": "NutriPulse",
+  "description": "Cyber-vitality nutrition engine: predict energy dips, optimize stamina, and prevent food waste with Chef AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
